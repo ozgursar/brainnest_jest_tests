@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: sans-serif;
+}
+
+header{
+  margin-top: 20px;
+  text-align: center;
+}
+
+figure {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+figure img {
+  background-color: #ddd;
+  padding: 5px;
+  border-radius: 50%;
+}
+
+li:hover img {
+  background-color: #ffdc00;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+li {
+  margin: 10px 0;
+  width: 100%;
+  min-width: 300px;
+}
+
+em {
+  font-family: monospace;
+  background: #ddd;
+  padding: 3px;
+}
+
