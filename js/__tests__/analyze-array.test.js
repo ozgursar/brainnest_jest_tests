@@ -1,4 +1,4 @@
-import { analyzeArray } from './analyze-array'
+import { analyzeArray } from '../analyze-array'
 const testObject = analyzeArray([9,4,5,3,14])
 const invalidInputObject = analyzeArray([9,"b","a",3,14])
 const invalidObjectWithString = analyzeArray("test-string")

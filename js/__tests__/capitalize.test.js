@@ -1,4 +1,4 @@
-import { capitalize } from './capitalize.js'
+import { capitalize } from '../capitalize.js'
 
 test('Should be able to correctly capitalize lowercase string book to Book', () => {
   expect(capitalize("book")).toBe("Book")

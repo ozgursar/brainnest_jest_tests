@@ -1,4 +1,4 @@
-import { reverseString } from './reverse-string'
+import { reverseString } from '../reverse-string'
 
 test('Should be able to reverse strings. koob! to book!', () => {
   expect(reverseString("!koob")).toBe("book!")

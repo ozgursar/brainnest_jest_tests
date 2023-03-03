@@ -1,4 +1,4 @@
-import { Calculator } from './calculator.js'
+import { Calculator } from '../calculator.js'
 
 describe("valid additions", () => {
   test('1 + 2 = 3', () => {

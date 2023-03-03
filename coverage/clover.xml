@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1677775229895" clover="3.2.0">
-  <project timestamp="1677775229895" name="All files">
+<coverage generated="1677866465052" clover="3.2.0">
+  <project timestamp="1677866465052" name="All files">
     <metrics statements="50" coveredstatements="50" conditionals="29" coveredconditionals="29" methods="11" coveredmethods="11" elements="90" coveredelements="90" complexity="0" loc="50" ncloc="50" packages="1" files="5" classes="5"/>
     <file name="analyze-array.js" path="/Users/buka/Desktop/Brainnest/brainnest_jest_tests/js/analyze-array.js">
       <metrics statements="8" coveredstatements="8" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>

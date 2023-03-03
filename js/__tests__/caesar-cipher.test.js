@@ -1,4 +1,4 @@
-import { caesarCipher } from './caesar-cipher'
+import { caesarCipher } from '../caesar-cipher'
 
 describe("Valid operations", () => {
 
